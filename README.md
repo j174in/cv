@@ -1,6 +1,5 @@
 # My Simple HTML CV
 
-![Project Image](https://miro.medium.com/max/700/1*jOo0OygE9C9_r11g0tp_Aw.png)
 
 > It's a simple cv page made with HTML only.
 ---
@@ -32,7 +31,7 @@ This repository is made part of a website development course. This is not my ori
 
 ## How To Use
 
-`-go to https://defaultrectr0.github.io/cv
+`-go to https://defaultrectr0.github.io/cv`
 ---
 
 ## References
